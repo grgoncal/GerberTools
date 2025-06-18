@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>GerberTools</AssemblyName>
+    <RootNamespace>GerberTools</RootNamespace>
+    <Nullable>enable</Nullable>	
+    <Version>1.0.0</Version>
+    <PackageId>GerberTools</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <IncludeReferencedProjects>true</IncludeReferencedProjects>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Polly" Version="[8.6.0,)" />
+  </ItemGroup>
+
+
+</Project>
