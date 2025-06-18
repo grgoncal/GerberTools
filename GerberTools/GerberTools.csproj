@@ -12,11 +12,16 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <DebugType>embedded</DebugType>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Polly" Version="[8.6.0,)" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="" PackageReadmeFile="README.md" />
+  </ItemGroup>
 
 </Project>
