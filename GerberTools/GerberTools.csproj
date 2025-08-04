@@ -5,7 +5,7 @@
     <AssemblyName>GerberTools</AssemblyName>
     <RootNamespace>GerberTools</RootNamespace>
     <Nullable>enable</Nullable>	
-    <Version>1.0.0</Version>
+    <Version>1.0.9</Version>
     <PackageId>GerberTools</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <IncludeReferencedProjects>true</IncludeReferencedProjects>
