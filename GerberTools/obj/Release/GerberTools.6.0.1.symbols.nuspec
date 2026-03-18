@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GerberTools</id>
+    <version>6.0.1</version>
+    <authors>GerberTools</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" commit="c170a637659803c0c6be6c009eca1ce5a1a34a53" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Polly" version="8.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

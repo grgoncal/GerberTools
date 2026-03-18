@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerberTools", "GerberTools\GerberTools.csproj", "{489CF92B-976F-433D-B2D4-594761DCDF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489CF92B-976F-433D-B2D4-594761DCDF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489CF92B-976F-433D-B2D4-594761DCDF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489CF92B-976F-433D-B2D4-594761DCDF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489CF92B-976F-433D-B2D4-594761DCDF03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D18CE0-DB31-40FC-89C3-3578135FD488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D18CE0-DB31-40FC-89C3-3578135FD488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D18CE0-DB31-40FC-89C3-3578135FD488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D18CE0-DB31-40FC-89C3-3578135FD488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75DB18B3-57E0-4D82-B489-9C8A7F2F9228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DB18B3-57E0-4D82-B489-9C8A7F2F9228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DB18B3-57E0-4D82-B489-9C8A7F2F9228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DB18B3-57E0-4D82-B489-9C8A7F2F9228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F196C5-3A2C-4B36-BDED-92BDB42F9978}
+	EndGlobalSection
+EndGlobal

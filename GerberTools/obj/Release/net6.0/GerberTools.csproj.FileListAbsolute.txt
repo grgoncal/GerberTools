@@ -1,0 +1,11 @@
+C:\GR7\Repos\GerberTools\GerberTools\bin\Release\net6.0\GerberTools.deps.json
+C:\GR7\Repos\GerberTools\GerberTools\bin\Release\net6.0\GerberTools.dll
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.csproj.AssemblyReference.cache
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.AssemblyInfoInputs.cache
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.AssemblyInfo.cs
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.csproj.CoreCompileInputs.cache
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.sourcelink.json
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\GerberTools.dll
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\refint\GerberTools.dll
+C:\GR7\Repos\GerberTools\GerberTools\obj\Release\net6.0\ref\GerberTools.dll
